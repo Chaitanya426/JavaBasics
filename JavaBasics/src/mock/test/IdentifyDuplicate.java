@@ -9,6 +9,7 @@ public class IdentifyDuplicate {
 		// System.out.println(names.length);
 
 		// print the duplicate element from array names
+		//Addded comments
 
 		for (int i = 0; i < names.length; i++) {// i1
 			for (int j = i + 1; j < names.length; j++) {// j2
